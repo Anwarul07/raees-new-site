@@ -8,3 +8,5 @@ list of SRK
 2. badshah
 
 welcome bro 
+
+also made achnage in README.md section
