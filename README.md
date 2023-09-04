@@ -1,12 +1,5 @@
 # some info 
-Raees Anwar: A ‘vintage’ Shahrukh enthralls in a heady cocktail of Romance, drama and action       
+Welcome bro 
+this all about the test of web host on github and push pull readmi file also 
 
-list of SRK
-1. jawan
-1. pathan
-1. veer zara
-2. badshah
-
-welcome bro 
-
-also made achnage in README.md section
+also made a change in README.md section
